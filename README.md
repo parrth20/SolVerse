@@ -1,4 +1,4 @@
-# solVerse - Liquid Staking on Solana
+# SolVerse - Liquid Staking on Solana
 
 ## Overview
 
